@@ -1,2 +1,2 @@
-import json
 print("Halo")
+a = data
